@@ -8,4 +8,5 @@ function login() {
 	commit 2.5;
 	commit 4;
 	commit 5;
+	test commit;
 }
