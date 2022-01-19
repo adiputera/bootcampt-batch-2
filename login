@@ -4,4 +4,5 @@ function login() {
 	menambahkan fungsi login by google;
 	menambahkan otp saat login;
 	commit 1;
+	commit 2;
 }
